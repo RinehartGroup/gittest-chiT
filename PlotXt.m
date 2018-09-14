@@ -9,5 +9,5 @@ hold on
 plot(T, Xt, 'ko')
 title('Magnetic Susceptibility')
 xlabel('Temperature (K)')
-ylabel('XT')
+ylabel('\it\chiT')
 hold off
